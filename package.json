@@ -1,0 +1,26 @@
+{
+  "name": "hw23",
+  "version": "1.0.0",
+  "description": "Запросить у пользователя 2 числа (число, степень) после чего вывести ему результат во всплывающем окне",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andrianapopp/hw23.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andrianapopp/hw23/issues"
+  },
+  "homepage": "https://github.com/andrianapopp/hw23#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "eslint": "^8.39.0",
+    "eslint-plugin-react": "^7.32.2"
+  }
+}
